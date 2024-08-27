@@ -8,3 +8,6 @@ An Android application demonstrating a car traveling around the globe with dynam
 - **Cloud Movement:** Two clouds move horizontally at different speeds, layered with the sun.
 - **Traffic Light & Car:** The traffic light changes from red to green, triggering the car to move around the globe. The car slows down after hitting a rock, which then falls off the globe.
 - **Rock Interaction:** The rock rotates and falls after contact with the car, remaining stationary afterward.
+## Watch this video
+
+[![Watch the video](https://img.youtube.com/vi/NZQ58ERw1hw/maxresdefault.jpg)](https://youtu.be/NZQ58ERw1hw)
