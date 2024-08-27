@@ -10,4 +10,4 @@ An Android application demonstrating a car traveling around the globe with dynam
 - **Rock Interaction:** The rock rotates and falls after contact with the car, remaining stationary afterward.
 ## Watch this video
 
-[![Watch the video](https://img.youtube.com/vi/NZQ58ERw1hw/maxresdefault.jpg)](https://youtu.be/NZQ58ERw1hw)
+[![Watch the video](https://img.youtube.com/vi/LWv6qque06I/maxresdefault.jpg)](https://youtu.be/LWv6qque06I)
